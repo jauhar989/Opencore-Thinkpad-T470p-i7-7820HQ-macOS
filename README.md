@@ -56,8 +56,8 @@ You can find the MacOS installation guide at the following link, [`click here`](
 - HDMI
 
 ## Bug
-- The Brightness control is working but the keyboard buttons are not working yet
-- Sleep works, but sometimes black screen when woken up. However, this can be overcome if the laptop screen is closed and then opened again.
+- The Brightness control is working but the keyboard buttons are not working yet. *Will be fixed soon*
+- Sleep works, but sometimes black screen when waking up. However, this can be resolved if the laptop screen is closed and then reopened. *Will be fixed soon*
 - Samsung PM981a NVME SSD causes kernel panic during installation.
 - Touchscreen is not working yet.
 
