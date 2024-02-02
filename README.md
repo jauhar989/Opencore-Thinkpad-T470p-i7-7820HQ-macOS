@@ -13,6 +13,16 @@ Wireless Card | Intel AC-8260 Dual Band + Bluetooth
 Bootloader | OpenCore
 Bootloader Ver. | v0.9.6
 
+## Screenshot
+<p align="center">
+  <kbd><img src="https://raw.githubusercontent.com/jauhar989/Opencore-Thinkpad-T470p-i7-7820HQ-macOS/main/Screenshot/T470p-ventura-about-mac.png"/></kbd></kbd>
+<p align="center">
+  <kbd><img src="https://raw.githubusercontent.com/jauhar989/Opencore-Thinkpad-T470p-i7-7820HQ-macOS/main/Screenshot/T470p-ventura-sys-monitor.png"/></kbd></kbd>
+</p>
+<p align="center">
+  <kbd><img src="https://github.com/jauhar989/Opencore-Thinkpad-T470p-i7-7820HQ-macOS/blob/main/Screenshot/T470p-ventura-system-info-hackintool.png"/></kbd></kbd>
+</p>
+
 ### Before you start
 Follow dortania guide on how to create a recovery usb for MacOS installation.
 You can find the MacOS installation guide at the following link, [`click here`](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html#downloading-macos)
@@ -41,10 +51,6 @@ You can find the MacOS installation guide at the following link, [`click here`](
 - Battery Indicator `Ventura`
 - Camera `Ventura`
 
-## Credits:
-- [Dortania](https://dortania.github.io/OpenCore-Install-Guide/)
-- [EliteMacx86](https://www.youtube.com/@EliteMacx86)
-
 ## Not Tested
 - Docking Station
 - HDMI
@@ -53,3 +59,8 @@ You can find the MacOS installation guide at the following link, [`click here`](
 - The Brightness control is working but the keyboard buttons are not working yet
 - Sleep works, but sometimes black screen when woken up. However, this can be overcome if the laptop screen is closed and then opened again.
 - Samsung PM981a NVME SSD causes kernel panic during installation.
+- Touchscreen is not working yet.
+
+## Credits:
+- [Dortania](https://dortania.github.io/OpenCore-Install-Guide/)
+- [EliteMacx86](https://www.youtube.com/@EliteMacx86)
